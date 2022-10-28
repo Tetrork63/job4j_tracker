@@ -11,7 +11,7 @@ public class Calculator {
         return number * x;
     }
 
-    public static int minus(int number){
+    public static int minus(int number) {
         return number - x;
     }
 

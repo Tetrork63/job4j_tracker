@@ -20,13 +20,13 @@ public class Item {
         this.name = name;
     }
 
-    public void people(){}
+    public void people() { }
 
-    public void people(String name){
+    public void people(String name) {
         this.name = name;
     }
 
-    public void people(String name, int id){
+    public void people(String name, int id) {
         this.name = name;
         this.id = id;
     }

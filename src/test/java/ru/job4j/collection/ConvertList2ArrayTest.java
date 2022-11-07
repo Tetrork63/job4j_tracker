@@ -16,6 +16,7 @@ public class ConvertList2ArrayTest {
         };
         assertThat(result).isDeepEqualTo(expect);
     }
+
     @Test
     public void when5ElementsThen6() {
         int[][] result = ConvertList2Array.toArray(
